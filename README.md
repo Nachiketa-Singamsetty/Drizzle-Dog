@@ -16,21 +16,21 @@ A sleek and interactive **Weather Forecast App** built for Android, offering acc
 
 ### App Screenshots
 
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 10px;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
-  <div style="text-align: center; margin: 0 10px;">
-    <img src="./Drizzle%20Dog/Images/Bangalore.jpg" alt="Bangalore Weather" width="300"/>
-    <p>Bangalore Weather</p>
+  <div style="text-align: center; margin: 0 15px;">
+    <img src="./Drizzle%20Dog/Images/Bangalore.jpg" alt="Bangalore Weather" width="250"/>
+    <p style="margin-top: 10px;">Bangalore Weather</p>
   </div>
 
-  <div style="text-align: center; margin: 0 10px;">
-    <img src="./Drizzle%20Dog/Images/signIn.jpg" alt="Sign In" width="300"/>
-    <p>Sign In Page</p>
+  <div style="text-align: center; margin: 0 15px;">
+    <img src="./Drizzle%20Dog/Images/signIn.jpg" alt="Sign In Page" width="250"/>
+    <p style="margin-top: 10px;">Sign In Page</p>
   </div>
 
-  <div style="text-align: center; margin: 0 10px;">
-    <img src="./Drizzle%20Dog/Images/signUp.jpg" alt="Sign Up" width="300"/>
-    <p>Sign Up Page</p>
+  <div style="text-align: center; margin: 0 15px;">
+    <img src="./Drizzle%20Dog/Images/signUp.jpg" alt="Sign Up Page" width="250"/>
+    <p style="margin-top: 10px;">Sign Up Page</p>
   </div>
 
 </div>

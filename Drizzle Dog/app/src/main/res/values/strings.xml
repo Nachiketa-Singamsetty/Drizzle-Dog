@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mobilab Weather</string>
+    <string name="sign_in">Sign In</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="registration">Registration</string>
+    <string name="john_doe">John Doe</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin">Sign in?</string>
+    <string name="password_recovery">Password Recovery</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="weather_report">Weather Report</string>
+    <string name="today_s_weather_forecast">Today\'s Weather Forecast</string>
+    <string name="city_name">City Name</string>
+    <string name="region_country">Region, Country</string>
+    <string name="lt_00_00">LT 00:00</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="_23">23</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="condition">Condition</string>
+    <string name="c">°C</string>
+    <string name="f">°F</string>
+    <string name="toggle_temp_unit">Toggle Temp. Unit</string>
+</resources>

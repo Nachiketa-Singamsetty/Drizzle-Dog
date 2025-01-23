@@ -16,14 +16,18 @@ A sleek and interactive **Weather Forecast App** built for Android, offering acc
 
 ## Screenshots
 
-### Home Screen (Bangalore Weather)
-<img src="./Drizzle%20Dog/Images/Bangalore.jpg" alt="Bangalore Weather" width="400"/>
+### App Screenshots
 
-### Sign In Page
-<img src="./Drizzle%20Dog/Images/signIn.jpg" alt="Sign In" width="400"/>
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
-### Sign Up Page
-<img src="./Drizzle%20Dog/Images/signUp.jpg" alt="Sign Up" width="400"/>
+  <img src="./Drizzle%20Dog/Images/Bangalore.jpg" alt="Bangalore Weather" width="300"/>
+
+  <img src="./Drizzle%20Dog/Images/signIn.jpg" alt="Sign In" width="300"/>
+
+  <img src="./Drizzle%20Dog/Images/signUp.jpg" alt="Sign Up" width="300"/>
+
+</div>
+
 
 
 ---
